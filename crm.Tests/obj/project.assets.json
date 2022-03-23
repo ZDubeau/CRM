@@ -1226,14 +1226,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "dotNetApp/1.0.0": {
+      "crm/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/dotNetApp.dll": {}
+          "bin/placeholder/crm.dll": {}
         },
         "runtime": {
-          "bin/placeholder/dotNetApp.dll": {}
+          "bin/placeholder/crm.dll": {}
         }
       }
     }
@@ -4625,10 +4625,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "dotNetApp/1.0.0": {
+    "crm/1.0.0": {
       "type": "project",
-      "path": "../dotNetApp/dotNetApp.csproj",
-      "msbuildProject": "../dotNetApp/dotNetApp.csproj"
+      "path": "../crm/crm.csproj",
+      "msbuildProject": "../crm/crm.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4637,7 +4637,7 @@
       "NUnit >= 3.12.0",
       "NUnit3TestAdapter >= 3.16.1",
       "NuGet.Frameworks >= 6.1.0",
-      "dotNetApp >= 1.0.0"
+      "crm >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -4646,14 +4646,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zahra/CESI/CRM/dotNetApp.Tests/dotNetApp.Tests.csproj",
-      "projectName": "dotNetApp.Tests",
-      "projectPath": "/Users/zahra/CESI/CRM/dotNetApp.Tests/dotNetApp.Tests.csproj",
+      "projectUniqueName": "/Users/zahra/CESI/CRM/crm.Tests/crm.Tests.csproj",
+      "projectName": "crm.Tests",
+      "projectPath": "/Users/zahra/CESI/CRM/crm.Tests/crm.Tests.csproj",
       "packagesPath": "/Users/zahra/.nuget/packages/",
-      "outputPath": "/Users/zahra/CESI/CRM/dotNetApp.Tests/obj/",
+      "outputPath": "/Users/zahra/CESI/CRM/crm.Tests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/zahra/.config/NuGet/NuGet.Config"
+        "/Users/zahra/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -4665,8 +4665,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj": {
-              "projectPath": "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj"
+            "/Users/zahra/CESI/CRM/crm/crm.csproj": {
+              "projectPath": "/Users/zahra/CESI/CRM/crm/crm.csproj"
             }
           }
         }

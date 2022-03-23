@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/zahra/CESI/CRM/dotNetApp.Tests/dotNetApp.Tests.csproj": {}
+    "/Users/zahra/CESI/CRM/crm.Tests/crm.Tests.csproj": {}
   },
   "projects": {
-    "/Users/zahra/CESI/CRM/dotNetApp.Tests/dotNetApp.Tests.csproj": {
+    "/Users/zahra/CESI/CRM/crm.Tests/crm.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zahra/CESI/CRM/dotNetApp.Tests/dotNetApp.Tests.csproj",
-        "projectName": "dotNetApp.Tests",
-        "projectPath": "/Users/zahra/CESI/CRM/dotNetApp.Tests/dotNetApp.Tests.csproj",
+        "projectUniqueName": "/Users/zahra/CESI/CRM/crm.Tests/crm.Tests.csproj",
+        "projectName": "crm.Tests",
+        "projectPath": "/Users/zahra/CESI/CRM/crm.Tests/crm.Tests.csproj",
         "packagesPath": "/Users/zahra/.nuget/packages/",
-        "outputPath": "/Users/zahra/CESI/CRM/dotNetApp.Tests/obj/",
+        "outputPath": "/Users/zahra/CESI/CRM/crm.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zahra/.config/NuGet/NuGet.Config"
+          "/Users/zahra/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj": {
-                "projectPath": "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj"
+              "/Users/zahra/CESI/CRM/crm/crm.csproj": {
+                "projectPath": "/Users/zahra/CESI/CRM/crm/crm.csproj"
               }
             }
           }
@@ -78,17 +78,17 @@
         }
       }
     },
-    "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj": {
+    "/Users/zahra/CESI/CRM/crm/crm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj",
-        "projectName": "dotNetApp",
-        "projectPath": "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj",
+        "projectUniqueName": "/Users/zahra/CESI/CRM/crm/crm.csproj",
+        "projectName": "crm",
+        "projectPath": "/Users/zahra/CESI/CRM/crm/crm.csproj",
         "packagesPath": "/Users/zahra/.nuget/packages/",
-        "outputPath": "/Users/zahra/CESI/CRM/dotNetApp/obj/",
+        "outputPath": "/Users/zahra/CESI/CRM/crm/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/zahra/.config/NuGet/NuGet.Config"
+          "/Users/zahra/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

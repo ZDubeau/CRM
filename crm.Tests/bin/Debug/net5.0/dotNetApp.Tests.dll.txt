@@ -1,2 +1,0 @@
-dotNetApp.Tests.Services.Tests.Implements.Tests.TestClientService.TestTotalCP
-dotNetApp.Tests.Tests.Test1

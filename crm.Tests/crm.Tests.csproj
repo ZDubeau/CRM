@@ -20,6 +20,6 @@
     <Folder Include="Entity.Tests\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\dotNetApp\dotNetApp.csproj" />
+    <ProjectReference Include="..\crm\crm.csproj" />
   </ItemGroup>
 </Project>

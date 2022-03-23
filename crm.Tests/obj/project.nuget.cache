@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9u6z39EgId/ExErrC+4HqoKRq7WXGkbiRNkwyEm6gn6+IRYgS7i6zj/20dbBze5JBINGxc3wp5cGdx4FXrTjuQ==",
+  "dgSpecHash": "aje6qZXG5x3gK66cMeALbCYyWlSgKlrvt6F2u5e9xuy4aGQmxg+HaySgyfjkwKIL01UAtA2ThwtLglhJvAAExQ==",
   "success": true,
-  "projectFilePath": "/Users/zahra/CESI/CRM/dotNetApp.Tests/dotNetApp.Tests.csproj",
+  "projectFilePath": "/Users/zahra/CESI/CRM/crm.Tests/crm.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/zahra/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",
     "/Users/zahra/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

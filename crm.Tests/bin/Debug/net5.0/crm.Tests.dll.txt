@@ -1,0 +1,2 @@
+crm.Tests.Services.Tests.Implements.Tests.TestClientService.TestTotalCP
+crm.Tests.Tests.Test1

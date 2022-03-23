@@ -6,16 +6,16 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "dotNetApp.Tests/1.0.0": {
+      "crm.Tests/1.0.0": {
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "16.5.0",
           "NUnit": "3.12.0",
           "NUnit3TestAdapter": "3.16.1",
           "NuGet.Frameworks": "6.1.0",
-          "dotNetApp": "1.0.0"
+          "crm": "1.0.0"
         },
         "runtime": {
-          "dotNetApp.Tests.dll": {}
+          "crm.Tests.dll": {}
         }
       },
       "Microsoft.CodeCoverage/16.5.0": {
@@ -867,15 +867,15 @@
           }
         }
       },
-      "dotNetApp/1.0.0": {
+      "crm/1.0.0": {
         "runtime": {
-          "dotNetApp.dll": {}
+          "crm.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "dotNetApp.Tests/1.0.0": {
+    "crm.Tests/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1321,7 +1321,7 @@
       "path": "system.xml.xpath.xmldocument/4.3.0",
       "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
-    "dotNetApp/1.0.0": {
+    "crm/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

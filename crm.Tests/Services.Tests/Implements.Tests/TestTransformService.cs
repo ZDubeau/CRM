@@ -1,7 +1,7 @@
-using dotNetApp.Services.Implements;
+using crm.Services.Implements;
 using NUnit.Framework;
 
-namespace dotNetApp.Tests.Services.Tests.Implements.Tests
+namespace crm.Tests.Services.Tests.Implements.Tests
 {
     [TestFixture]
     public class TestTransformService

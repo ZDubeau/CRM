@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "dotNetApp/1.0.0": {
+      "crm/1.0.0": {
         "runtime": {
-          "dotNetApp.dll": {}
+          "crm.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "dotNetApp/1.0.0": {
+    "crm/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

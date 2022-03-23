@@ -1,6 +1,6 @@
 using NUnit.Framework;
 
-namespace dotNetApp.Tests
+namespace crm.Tests
 {
     public class Tests
     {

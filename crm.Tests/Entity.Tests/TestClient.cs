@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace dotNetApp.Tests.Entity.Tests
+namespace crm.Tests.Entity.Tests
 {
     [TestFixture]
     public class TestClient
