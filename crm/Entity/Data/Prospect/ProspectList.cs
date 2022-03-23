@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace dotNetApp.Entity.Data.Prospect
+namespace crm.Entity.Data.Prospect
 {
     public class ProspectList
     {

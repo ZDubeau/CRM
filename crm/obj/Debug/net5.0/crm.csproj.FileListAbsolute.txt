@@ -1,0 +1,16 @@
+/Users/zahra/CESI/CRM/crm/bin/Debug/net5.0/crm
+/Users/zahra/CESI/CRM/crm/bin/Debug/net5.0/crm.deps.json
+/Users/zahra/CESI/CRM/crm/bin/Debug/net5.0/crm.runtimeconfig.json
+/Users/zahra/CESI/CRM/crm/bin/Debug/net5.0/crm.runtimeconfig.dev.json
+/Users/zahra/CESI/CRM/crm/bin/Debug/net5.0/crm.dll
+/Users/zahra/CESI/CRM/crm/bin/Debug/net5.0/crm.pdb
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/crm.csproj.AssemblyReference.cache
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/crm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/crm.AssemblyInfoInputs.cache
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/crm.AssemblyInfo.cs
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/crm.csproj.CoreCompileInputs.cache
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/crm.dll
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/refint/crm.dll
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/crm.pdb
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/crm.genruntimeconfig.cache
+/Users/zahra/CESI/CRM/crm/obj/Debug/net5.0/ref/crm.dll

@@ -1,4 +1,4 @@
-namespace dotNetApp.Models.Constants
+namespace crm.Models.Constants
 {
     class Constants
     {

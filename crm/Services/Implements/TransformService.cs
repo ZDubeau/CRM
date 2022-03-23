@@ -1,8 +1,8 @@
 using System;
 using System.Diagnostics;
-using dotNetApp.Services.Interface;
+using crm.Services.Interface;
 
-namespace dotNetApp.Services.Implements
+namespace crm.Services.Implements
 {
     [DebuggerDisplay("{" + nameof(GetDebuggerDisplay) + "(),nq}")]
     public class TransformService : ITransformService

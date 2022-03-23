@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SSrBysR/ONF1L9xZIcw8D8lJczparJmPRCHDSQ9rz6OxEvgS8xeaz6VnS8YU7L8w3g41NU86xrbz4n/zhd/GmA==",
+  "dgSpecHash": "fWwh71a6Jng0hA9u/ebWf3kQipsf3L4emgtvMK0LteVcJmzb2ELyZrU3ldS10+anCvXuzMyrqq56R47qEENtXQ==",
   "success": true,
-  "projectFilePath": "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj",
+  "projectFilePath": "/Users/zahra/CESI/CRM/crm/crm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

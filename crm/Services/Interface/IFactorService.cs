@@ -1,4 +1,4 @@
-namespace dotNetApp.Services.Interface
+namespace crm.Services.Interface
 {
     public interface IFactorService
     {

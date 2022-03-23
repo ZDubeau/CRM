@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace dotNetApp.Entity.Data.Client
+namespace crm.Entity.Data.Client
 {
     public class ClientList
     {

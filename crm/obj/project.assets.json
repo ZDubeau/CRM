@@ -13,14 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj",
-      "projectName": "dotNetApp",
-      "projectPath": "/Users/zahra/CESI/CRM/dotNetApp/dotNetApp.csproj",
+      "projectUniqueName": "/Users/zahra/CESI/CRM/crm/crm.csproj",
+      "projectName": "crm",
+      "projectPath": "/Users/zahra/CESI/CRM/crm/crm.csproj",
       "packagesPath": "/Users/zahra/.nuget/packages/",
-      "outputPath": "/Users/zahra/CESI/CRM/dotNetApp/obj/",
+      "outputPath": "/Users/zahra/CESI/CRM/crm/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/zahra/.config/NuGet/NuGet.Config"
+        "/Users/zahra/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

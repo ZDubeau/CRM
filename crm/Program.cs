@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace dotNetApp
+namespace crm
 {
     class Program
     {

@@ -1,8 +1,8 @@
-using dotNetApp.Entity.Data.Client;
-using dotNetApp.Entity.Data.Prospect;
-using dotNetApp.Services.Interface;
+using crm.Entity.Data.Client;
+using crm.Entity.Data.Prospect;
+using crm.Services.Interface;
 //test
-namespace dotNetApp.Services.Implements
+namespace crm.Services.Implements
 {
     public class ClientService : IClientService
     {

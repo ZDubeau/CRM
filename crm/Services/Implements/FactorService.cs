@@ -1,7 +1,7 @@
 using System;
-using dotNetApp.Services.Interface;
+using crm.Services.Interface;
 
-namespace dotNetApp.Services.Implements
+namespace crm.Services.Implements
 {
     public class FactorService : IFactorService
     {
